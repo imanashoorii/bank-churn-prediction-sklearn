@@ -43,7 +43,6 @@ A retail bank wants to identify at-risk customers early enough for the retention
 .
 ├── churn_prediction.ipynb   # Main notebook: EDA → preprocessing → modeling → evaluation
 ├── README.md
-└── requirements.txt
 ```
 
 ## Setup
