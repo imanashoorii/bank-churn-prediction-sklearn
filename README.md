@@ -50,7 +50,6 @@ A retail bank wants to identify at-risk customers early enough for the retention
 ```bash
 git clone <your-repo-url>
 cd <repo-name>
-pip install -r requirements.txt
 jupyter notebook churn_prediction.ipynb
 ```
 
